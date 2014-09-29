@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+The *Oxford Code Kats* are a small group of coding enthusiasts who meet up on a weekly basis to solve a programming problem known as a *code kata* over a coffee.  It's an opportunity to get a caffeine fix, learn something new and meet other coders all at the same time.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+The group is completely open, so anyone is welcome to join. There are no restrictions on programming languages or previous experience.  We do try, as best we can, to follow the practices of *pair programming* and *test driven development*.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)

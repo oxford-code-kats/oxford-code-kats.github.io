@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oxford Code Kats</title>
+    <description>Social coding over a coffee
+</description>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 29 Sep 2014 11:41:31 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2014 11:41:31 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;Enjoy solving coding problems in a relaxed evnironment?  Come and join us on Sunday mornings for a coffee and a coding kata.  You can find the details of the next session on &lt;a href=&quot;http://www.meetup.com/Oxford-Code-Kata-Meetup&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions drop me an &lt;a href=&quot;mailto:satiricallaughter@gmail.com&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Sep 2014 00:00:00 +0100</pubDate>
+        <link>//2014/09/29/welcome-to-oxford-code-kats.html</link>
+        <guid isPermaLink="true">//2014/09/29/welcome-to-oxford-code-kats.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
