@@ -4,10 +4,10 @@
     <title>Oxford Code Kats</title>
     <description>Social coding over a coffee
 </description>
-    <link>//</link>
-    <atom:link href="//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Sep 2014 13:01:45 +0100</pubDate>
-    <lastBuildDate>Mon, 29 Sep 2014 13:01:45 +0100</lastBuildDate>
+    <link>http://oxfordcodekats.com/</link>
+    <atom:link href="http://oxfordcodekats.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 29 Sep 2014 13:14:18 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Sep 2014 13:14:18 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;If you have any questions drop me an &lt;a href=&quot;mailto:satiricallaughter@gmail.com&quot;&gt;email&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Sep 2014 00:00:00 +0100</pubDate>
-        <link>//2014/09/29/welcome-to-oxford-code-kats.html</link>
-        <guid isPermaLink="true">//2014/09/29/welcome-to-oxford-code-kats.html</guid>
+        <link>http://oxfordcodekats.com/2014/09/29/welcome-to-oxford-code-kats.html</link>
+        <guid isPermaLink="true">http://oxfordcodekats.com/2014/09/29/welcome-to-oxford-code-kats.html</guid>
         
         
       </item>
